@@ -15,6 +15,10 @@ You can run the executable file without any python or any other third party appl
 ->The user can generate 4 types of color space and see the color visualy <br/>
 ->Copy to clipboard to use later <br/>
 ->If the user enters a wrong color code the program will warn you <br/>
+### At below you can find the images:
 
-
+![Screenshot_3](https://user-images.githubusercontent.com/105879066/186703835-f5835a2b-f641-4acc-ac3b-146e6c3af085.jpg)
+![Screenshot_8](https://user-images.githubusercontent.com/105879066/186705757-6a6f4d40-f345-4273-b4ac-502cf0d79816.jpg)
+![Screenshot_5](https://user-images.githubusercontent.com/105879066/186704045-701c5aa4-3201-4b5e-97ab-169fdaa4bfa7.jpg)
+![Screenshot_6](https://user-images.githubusercontent.com/105879066/186704070-edd06721-28cb-4888-ad0e-d56a4ed6e3cc.jpg)
 
