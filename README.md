@@ -2,7 +2,7 @@
  Color generator and color picker GUI application using PyQt5
 
 You can run the executable file without any python or any other third party applications downloaded just make sure Color Picker.exe and assets are in the same folder  
-
+![Screenshot_3](https://user-images.githubusercontent.com/105879066/186703835-f5835a2b-f641-4acc-ac3b-146e6c3af085.jpg) <br/>
 ### For Color Picker part:
 
 ->The user can use the sample color palette or browse their files and choose their own image <br/>
